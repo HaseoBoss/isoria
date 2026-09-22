@@ -1,3 +1,6 @@
+---
+title: Fiendborns ou Infernais
+---
 
 ##### Visão Rápida
 - Humanoides marcados por energia infernal, cuja presença inquieta instintivamente outras espécies, oscilando entre ambição, controle e constante luta contra sua própria natureza.
@@ -88,9 +91,9 @@
 		- O governo secreto na sexta camada tem liderança especial igualmente definida por votação de parte do [[Conselho dos Treze Anciões|Conselho dos Anciões]], especificamente pelos líderes das [[Seis Famílias Abissais|6 Famílias]] e o Felesin, assim como um díficil um teste de análise de potencial e capacidade.
 			- Esse líder "verdadeiro", conhecido como o Kaiser, pode ser posteriormente derrubado por votação unânime do conselho e costuma reinar até sua morte ou caso seja considerado incapaz de continuar seu papel com total qualidade
 - Deuses Primários
-	- [[Player-Facing/Divindades/Canis - Vontade e Justiça|Canis]] e sua Vontade
-	- [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]] e seu Destino
-	- [[Player-Facing/Divindades/Meira - Poder e Controle|Meira]] e seu Controle
+	- [[Canis - Vontade e Justiça|Canis]] e sua Vontade
+	- [[Janus - Destino e Caos|Janus]] e seu Destino
+	- [[Meira - Poder e Controle|Meira]] e seu Controle
 
 ##### Onde Vivem
 - **Escala:** aldeias a cidades pequenas (500–3.000), capital muito grande

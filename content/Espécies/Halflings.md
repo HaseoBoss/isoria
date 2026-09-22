@@ -1,3 +1,6 @@
+---
+title: Halflings
+---
 
 ##### Visão Rápida
 - Pequenos, resilientes e surpreendentemente corajosos, conhecidos por sua habilidade social e presença constante nos fluxos de comércio e convivência entre povos.

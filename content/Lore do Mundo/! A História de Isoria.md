@@ -1,3 +1,7 @@
+---
+title: ! A História de Isoria
+---
+
 - Ideia v0.01: Criação Inicial por Rubi, estabilizou o universo o bastante para virem Topázio, Jade, ao criar a base, naturalmente vieram Diamante e Ametista, com eles Opala e Quartzo. Após isso criaram os mundos e espécies, trazendo a vida Topázio, Safira, Lápis-Lazuli, Esmeralda e Rubi
 
 #### Visão rápida

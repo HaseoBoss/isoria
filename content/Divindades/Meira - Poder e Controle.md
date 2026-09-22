@@ -1,3 +1,6 @@
+---
+title: Meira - Poder e Controle
+---
 
 ### Pedra Preciosa
 - Ametista - Roxa, variando do lilás claro ao violeta profundo, com brilho vítreo suave.

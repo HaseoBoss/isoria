@@ -1,3 +1,6 @@
+---
+title: - Resumo dos Locais
+---
 
 #### Informações Gerais
 - Nome do Mundo: Isoria

@@ -1,3 +1,6 @@
+---
+title: Orcs
+---
 
 ##### Visão Rápida
 - Guerreiros ferozes e disciplinados, moldados por ambientes extremos e por uma cultura marcial onde força, liderança e sobrevivência caminham juntas.

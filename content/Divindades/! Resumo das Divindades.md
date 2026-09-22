@@ -1,3 +1,7 @@
+---
+title: ! Resumo das Divindades
+---
+
 #### As 5 Divindades Primordiais
 - [[Player-Facing/Divindades/Atna - Emoções e Loucura|Atna - Topázio]] - Emoções e Loucura
 	- Loucura - Bestiais

@@ -1,3 +1,6 @@
+---
+title: Giantborns ou Gigantes
+---
 
 ##### Visão Rápida
 - Colossos vivos de força e resistência, cuja simples presença impõe respeito, combinando poder físico bruto com uma surpreendente estrutura social organizada.

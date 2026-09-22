@@ -1,3 +1,6 @@
+---
+title: ! Venis - Ordem e Conflito
+---
 
 ### Pedra Preciosa
 - Rubi - Pedra translúcida a transparente, com vermelho intenso que pode variar do carmim ao vermelho escuro
@@ -8,7 +11,7 @@
 - Descrição: Ensina que a ordem nasce do confronto. Governa leis, exércitos e revoluções, lembrando que a paz só existe após a luta. Seus templos são tão comuns em palácios quanto em campos de batalha.
 
 ### Divindades Menores
-- [[Player-Facing/Divindades/Divindades Menores/Gruumsh|Gruumsh]] - Deus dos Orcs
+- [[Gruumsh]] - Deus dos Orcs
 - [[Harakin]] - Deus dos Anões e da Forja
 - Violência
 - Liberdade

@@ -1,3 +1,6 @@
+---
+title: Angelborns ou Celestiais
+---
 
 ##### Visão Rápida
 - Seres com uma distante linhagem divina com presença imponente e aura espiritual, porém, frequentemente orgulhosos e difíceis de lidar
@@ -40,9 +43,9 @@
     - O comando do Governo sob as Castas é sustentado pelas [[Sete Famílias Sagradas]]
     - Grande valorização de dever, ordem e intervenção ativa no mundo
 - Deuses Primários
-	- [[Player-Facing/Divindades/Nulin - Conhecimento e Sabedoria|Nulin]] e seu Conhecimento
-	- [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren]] e sua Proteção
-	- [[Player-Facing/Divindades/Venis - Ordem e Conflito|Venis]] e sua Ordem
+	- [[Nulin - Conhecimento e Sabedoria|Nulin]] e seu Conhecimento
+	- [[Saren - Proteção e Natureza|Saren]] e sua Proteção
+	- [[Venis - Ordem e Conflito|Venis]] e sua Ordem
 
 ##### Onde Vivem
 - Biomas, regiões ou tipos de assentamento
@@ -103,7 +106,7 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 
 ##### Notas
 - As [[Ilhas Flutuantes de Elysium - Angelborn|Ilhas de Elysium]] flutuam acima da [[Cratera de Tartarus - Fiendborn|Cratera de Tartarus]], com a maneira que a ilha flutua ainda sendo estudada, com estudos atuais apontando para possível uso de runas ancestrais da Era Divina com Gravitita sendo sua fonte de energia espacial e gravitacional
-- Compartilham a fé em [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren]] com os Elfos e [[Player-Facing/Divindades/Venis - Ordem e Conflito|Venis]] com Orcs, com ambas espécies adorando aspectos diferentes do que os Celestiais
+- Compartilham a fé em [[Saren - Proteção e Natureza|Saren]] com os Elfos e [[Venis - Ordem e Conflito|Venis]] com Orcs, com ambas espécies adorando aspectos diferentes do que os Celestiais
 - As facções internas muitas vezes são baseadas em traços físicos (como quantidade de asas ou detalhes das marcas de luz)
 - Gerações inteiras com traços semelhantes são vistas como presságios
 - Possuem forte inclinação para proteger e restaurar, mesmo em combate
