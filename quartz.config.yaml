@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Mundo de Isoria
+  pageTitle: Isoria
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: pt-BR
+  locale: en-US
   baseUrl: HaseoBoss.github.io/isoria
   ignorePatterns:
     - private

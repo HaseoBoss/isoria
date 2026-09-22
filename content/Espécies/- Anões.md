@@ -1,6 +1,3 @@
----
-title: Anões
----
 
 ##### Visão Rápida
 - Humanoides baixos e extremamente robustos, reconhecidos por sua resistência física, disciplina e domínio sobre pedra e metal.

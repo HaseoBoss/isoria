@@ -1,6 +1,3 @@
----
-title: Humanos
----
 
 ##### Visão Rápida
 - Extremamente variados e adaptáveis, capazes de se inserir em praticamente qualquer cultura e prosperar através de determinação e versatilidade.

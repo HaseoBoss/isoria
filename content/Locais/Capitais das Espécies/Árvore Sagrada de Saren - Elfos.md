@@ -1,6 +1,3 @@
----
-title: Árvore Sagrada de Saren
----
 
 #### Visão geral
 Breve descrição da cidade em 2 ou 3 linhas. Clima geral, importância no mundo e primeira impressão.

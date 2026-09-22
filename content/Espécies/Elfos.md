@@ -1,6 +1,3 @@
----
-title: Elfos
----
 
 ##### Visão Rápida
 - Humanoides profundamente conectados à natureza e ao divino, de movimentos leves e presença serena, frequentemente percebidos como distantes ou inalcançáveis.
@@ -185,3 +182,4 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 ##### Notas
 - Comunicação com a Árvore Sagrada frequentemente resulta em demandas espalhadas pela floresta
 - Sociedade dividida entre devoção absoluta e interpretações da vontade divina
+

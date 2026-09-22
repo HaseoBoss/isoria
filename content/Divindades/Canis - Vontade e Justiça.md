@@ -1,6 +1,3 @@
----
-title: Canis - Vontade e Justiça
----
 
 ### Pedra Preciosa
 - Safira - Cristal geralmente azul profundo, mas que também pode aparecer em amarelo, rosa, verde ou branco.

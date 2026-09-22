@@ -1,6 +1,3 @@
----
-title: Atna - Emoções e Loucura
----
 
 ### Pedra Preciosa
 - Topázio - Transparente e brilhante, mais comum em tons de azul claro, dourado ou incolor.

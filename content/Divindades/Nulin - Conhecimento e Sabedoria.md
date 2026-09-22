@@ -1,6 +1,3 @@
----
-title: Nulin - Conhecimento e Sabedoria
----
 
 ### Pedra Preciosa
 - Lápis-Lazuli - Azul profundo opaco, frequentemente com veios dourados de pirita

@@ -1,6 +1,3 @@
----
-title: Giantborns ou Gigantes
----
 
 ##### Visão Rápida
 - Colossos vivos de força e resistência, cuja simples presença impõe respeito, combinando poder físico bruto com uma surpreendente estrutura social organizada.
@@ -235,3 +232,4 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 ##### Notas
 - Entre os [[Giantborns ou Gigantes|Giantborn]] e entre os [[Orcs|Orcs]] existe uma tradição de combate chamada não oficialmente de "Carinho Bruto". Consiste em combate corpo a corpo sem equipamentos, apenas socos trocados até que um caia inconsciente
 	- Sistematicamente: Ambos os combatentes tem ambas suas defesas fixadas em 10, o primeiro a ser reduzido a 1 ou menos de vida é derrotado. Caso sejam seguidas as regras de combate não é possível morrer nesta tradição
+

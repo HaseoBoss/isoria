@@ -1,6 +1,3 @@
----
-title: Beastborns ou Bestiais
----
 
 ##### Visão Rápida
 - Humanoides híbridos com traços animais variados, a sua natureza instintiva e diversidade os torna uma das espécies mais adaptáveis e imprevisíveis.

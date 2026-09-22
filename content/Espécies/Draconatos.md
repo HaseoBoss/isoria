@@ -1,6 +1,3 @@
----
-title: Draconatos
----
 
 ##### Visão Rápida
 - Humanoides com linhagem dracônica e aparência reptiliana, usualmente marcados por sua presença imponente e intimidadora, uma ligação profunda com forças antigas do mundo e sua variedade surpreendente de detalhes de aparência e cores.

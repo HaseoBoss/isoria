@@ -1,6 +1,4 @@
----
-title: Mundo de Isoria
----
+
 > [!warning] Em desenvolvimento  
 > Esta wiki está em **produção ativa**. As informações, textos e conteúdos publicados podem e provavelmente serão alterados, revisados ou reorganizados a qualquer momento.
 > 

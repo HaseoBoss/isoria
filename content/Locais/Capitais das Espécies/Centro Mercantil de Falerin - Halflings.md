@@ -1,6 +1,3 @@
----
-title: Centro Mercantil de Falerin
----
 
 #### Visão geral
 Breve descrição da cidade em 2 ou 3 linhas. Clima geral, importância no mundo e primeira impressão.
@@ -53,3 +50,4 @@ Problemas internos, rivalidades, ameaças externas ou instabilidade política.
 
 #### Notas adicionais
 Qualquer detalhe extra, segredos da cidade ou ideias futuras.
+

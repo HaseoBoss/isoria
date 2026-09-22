@@ -1,6 +1,3 @@
----
-title: ! Venis - Ordem e Conflito
----
 
 ### Pedra Preciosa
 - Rubi - Pedra translúcida a transparente, com vermelho intenso que pode variar do carmim ao vermelho escuro

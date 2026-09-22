@@ -1,6 +1,3 @@
----
-title: Ilhas Flutuantes de Elysium
----
 
 #### Visão geral
 - A segunda capital dos [[- Angelborns ou Celestiais|Angelborns]], mais focada em alta administração e pesquisas tecnomágicas. Sede das [[Sete Famílias Sagradas|7 Famílias Sagradas]]

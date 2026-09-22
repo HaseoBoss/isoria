@@ -1,6 +1,3 @@
----
-title: Primevus - Vida e Morte
----
 
 ### Pedra Preciosa
 - Diamante - Transparente e muito brilhante, geralmente incolor, mas também encontrado em tons de amarelo, azul ou rosa

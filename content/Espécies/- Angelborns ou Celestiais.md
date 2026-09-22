@@ -1,6 +1,3 @@
----
-title: Angelborns ou Celestiais
----
 
 ##### Visão Rápida
 - Seres com uma distante linhagem divina com presença imponente e aura espiritual, porém, frequentemente orgulhosos e difíceis de lidar
@@ -111,3 +108,4 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 - Gerações inteiras com traços semelhantes são vistas como presságios
 - Possuem forte inclinação para proteger e restaurar, mesmo em combate
 - Devido a sua resistência natural a temperatura, usam usualmente roupas mais leves, que lembram um estado de pureza
+

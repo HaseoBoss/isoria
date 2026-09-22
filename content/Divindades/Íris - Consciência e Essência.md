@@ -1,6 +1,3 @@
----
-title: Íris - Consciência e Essência
----
 
 ### Pedra Preciosa
 - Quartzo - Pedra translúcida a transparente, com brilho vítreo, encontrada em diversas cores como incolor, branco, rosa, roxo, amarelo e cinza, dependendo de impurezas naturais.

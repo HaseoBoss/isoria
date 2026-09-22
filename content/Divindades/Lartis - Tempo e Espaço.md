@@ -1,6 +1,3 @@
----
-title: ! Resumo das Divindades
----
 
 ### Pedra Preciosa
 - Jade - Verde suave a intenso, opaco ou levemente translúcido, com textura homogênea.

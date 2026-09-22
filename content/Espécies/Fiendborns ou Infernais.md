@@ -1,6 +1,3 @@
----
-title: Fiendborns ou Infernais
----
 
 ##### Visão Rápida
 - Humanoides marcados por energia infernal, cuja presença inquieta instintivamente outras espécies, oscilando entre ambição, controle e constante luta contra sua própria natureza.

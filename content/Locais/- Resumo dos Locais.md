@@ -1,6 +1,11 @@
----
-title: - Resumo dos Locais
----
+
+            param($Match)
+
+            $Frontmatter = $Match.Groups[1].Value
+            $Frontmatter = $Frontmatter -replace '(?m)^title:\s*.*\r?\n?', ''
+
+            return "---`r`n$Frontmatter`r`n---"
+        
 
 #### Informações Gerais
 - Nome do Mundo: Isoria
@@ -22,3 +27,4 @@ title: - Resumo dos Locais
 
 #### Locais Relevantes
 - [[Floresta Amálgama|Floresta Amálgama]]
+

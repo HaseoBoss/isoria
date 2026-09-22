@@ -1,6 +1,3 @@
----
-title: Gnomos
----
 
 ##### Visão Rápida
 - Pequenos inventores meticulosos e mentais aguçados, conhecidos por sua engenhosidade técnica e curiosidade quase obsessiva por mecanismos, armadilhas e fenômenos naturais.

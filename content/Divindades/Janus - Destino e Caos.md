@@ -1,6 +1,3 @@
----
-title: Janus - Destino e Caos
----
 
 ### Pedra Preciosa
 - Opala - Leitoso ou translúcido, com reflexos iridescentes que mostram várias cores conforme a luz.
