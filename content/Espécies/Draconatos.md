@@ -163,14 +163,3 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 
 - Comandantes - Apesar de não terem fortes raízes militares, seu poder e influência no mundo os tornam Comandantes naturais. Porém, devido as suas tendências isolacionistas, muitas vezes seus talentos terminam não sendo tão bem aproveitados no mundo a fora
 - Feiticeiros e Magos - Devido a terem uma forte conexão com a magia do mundo, muitos Draconatos tendem a aprender magia. Existem facções e discussões milenares sobre vantagens, desvantagens e detalhes específicos sobre aprender magia por estudos ou com meditação e forte conexão com o mana em si
-
-##### Notas
-- Guardiões secretos de um selo maligno na Caverna Primordial
-- “Capazes de liberar grande poder em momentos críticos (reforçado por Dying Breath e Second Breath)”
-- “Clichê: nobres e superiores; na prática, divididos por linhagem e ambição interna”
-- “Fortemente definidos por sua origem dracônica, que influencia comportamento, território e poder”
-
-Se quiser, dá para aprofundar bastante criando **subculturas por tipo de Origem Dracônica** (fogo, gelo, umbral, etc.), o que encaixa muito bem com seu mapa e cria divisões internas interessantes dentro da própria raça.
-
-- São secretamente protetores da paz e estabilidade desse mundo, sendo os únicos a proteger o selo em um grande portal maligno que se localiza na ilha ao norte do mundo, na [[Caverna Primordial]]
-

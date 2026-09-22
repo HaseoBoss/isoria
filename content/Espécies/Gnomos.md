@@ -222,19 +222,4 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 	“Entre os jovens, arqueiros e exploradores são cada vez mais comuns.”
 
 ##### Notas
-- Engenheiros natos, com preferência por explosivos e tecnologia destrutiva
-- “Clichê: excêntricos ou instáveis; na prática, altamente precisos dentro de sua lógica própria”
-- “Especialistas em evitar contenção e escapar de situações perigosas (reforçado por Escape Artist)”
-- “Alta resistência mental a efeitos que afetariam foco ou consciência (reforçado por Mental Clarity e Strong-Minded)”
-- Gancho: um experimento gnômico altera o clima local de forma imprevisível, afetando regiões inteiras
-
-Se quiser, dá para diferenciar ainda mais **Gnomos vs Goblins** no seu mundo (controle vs improviso, planejamento vs tentativa e erro), o que já começou a aparecer aqui e pode virar um eixo cultural forte.
-
 - Engenheiros natos, preferencia enorme por explosivos e tecnologia que cause destruição, o que inclui de bombas a armadilhas
-
-- Clichês, variações, conflitos internos ou ganchos
-	“Clichê: todos são brutamontes violentos; na verdade, têm artistas e filósofos respeitados.”
-	“Divididos entre uma facção tradicionalista subterrânea e outra que quer viver na superfície.”
-	“Alguns nascem com traços diferentes (sem asas, sem chifres, cor de olho rara) e são vistos como presságios.”
-	“Gancho: uma diáspora dessa espécie procura um novo lar após perder sua terra ancestral.”
-	“Variação regional: no norte, são pescadores costeiros; no sul, são guerreiros do deserto.”

@@ -53,4 +53,4 @@ Qualquer detalhe extra, segredos da cidade ou ideias futuras.
 
 Uma das bordas do império, defende de ameaças externas
 - Definir ameaças, monstros? Necrópole?
-	- 
+	- Definir detalhes quanto a situação do continente sul (Clima fantástico?)

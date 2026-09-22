@@ -195,11 +195,6 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 - Cratera de Tartarus sofre influência caótica constante das [[Ilhas Flutuantes de Elysium - Angelborn|Ilhas de Elysium]]
     - Interferência estabilizada por [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]]
 - Chifres indicam linhagem e status político
-- “Capacidade natural de apagar luz e operar na escuridão (reforçado por Light’s Bane e Darkvision)”
-- “Maior resistência a intimidação e forte presença social (reforçado por Infernal Bravery)”
-- Gancho: surgimento de uma geração de Infernais completamente imunes à Maldição do Sangue, ameaçando o equilíbrio político e religioso da espécie
-
-Se quiser, o próximo passo natural aqui seria amarrar melhor **a origem da guerra Angelborn vs Fiendborn**, já que isso claramente é um dos pilares centrais do mundo.
 
 - Por estarem abaixo das [[Ilhas Flutuantes de Elysium - Angelborn|Ilhas Flutuantes]] dos [[- Angelborns ou Celestiais|Celestiais]] e sua misteriosa e ainda não completamente estudada magia ancestral de levitação, a primeira camada (e a segunda, um pouco) está sob constante exposição aos elementos caóticos, com estações incompreensíveis e até certo nível de descontrole do mana, o Caos apenas não foge de controle pois a situação é contida pela Deusa [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]], que ajusta apenas o bastante para não permitir maiores problemas e se diverte vendo a situação
 - Assentamentos dos Fiendborn com ao menos 200 membros da espécie começa a gerar leves quantidades de miasma naquele local devido a concentração da [[Maldição do Sangue]], diminuindo a fertilidade da terra e presença da vida como fauna e flora, assim como sensação de desgosto imediata advinda de Elfos e Beastborns, assim como Druidas

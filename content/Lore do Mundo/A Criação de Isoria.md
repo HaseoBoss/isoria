@@ -3,6 +3,6 @@ Antes da forma e do significado, antes mesmo do conceito de vida e morte, havia 
 
 
 
-Em termos crus, as divindades todas nasceram do Vazio, as 5 Primordiais nasceram primeiro e montaram a "base" da realidade e a parte conceitual, as 5 Existênciais vieram na sequência e foram as principais responsáveis pela criação dos "detalhes" (como vida inteligente, magia e outros conceitos mais atrelados a vida limitada, como tempo/espaço e vida/morte)
+Em termos crus, as divindades todas nasceram do Vazio, as 5 Primordiais nasceram primeiro e montaram a "base" da realidade e a parte conceitual, as 5 Existenciais vieram na sequência e foram as principais responsáveis pela criação dos "detalhes" (como vida inteligente, magia e outros conceitos mais atrelados a vida limitada, como tempo/espaço e vida/morte)
 
-Em termos de poder bruto desses dois lados do panteão eu diria que fica 60/40 pra os Primordiais, mas como é uma relação meio simbiótica e todos tendo vindo da mesma origem, não tem conflito direto, só tretas ocasionais pq Divindades são mesquinhas independente do universo
+Em termos de poder bruto comparando os dois "lados" do panteão fica 60/40 pra os Primordiais, mas como é uma relação efetivamente simbiótica não costuma ter conflito direto, só leves confusões ocasionais pois Divindades são mesquinhas e arrogantes independente do universo

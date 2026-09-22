@@ -215,16 +215,5 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 
 ##### Notas
 - Segunda raça mais comum devido à adaptabilidade, perdem apenas para Bestiais
-- “Destacam-se pela capacidade de especialização rápida e superação em situações críticas (adicionado para refletir Human Determination e Human Resolve)”
-- “Clichê: são medianos em tudo; na prática, podem se destacar em qualquer área dependendo do indivíduo”
-- Gancho: disputas políticas internas frequentemente moldam o destino de regiões inteiras
-
 - Cidade "padrão", com grande castelo no meio e um Imperador "eleito" (definir método)
 	- Segunda raça mais comum devido a adaptabilidade, perdem pra Bestiais
-
-- Clichês, variações, conflitos internos ou ganchos
-	“Clichê: todos são brutamontes violentos; na verdade, têm artistas e filósofos respeitados.”
-	“Divididos entre uma facção tradicionalista subterrânea e outra que quer viver na superfície.”
-	“Alguns nascem com traços diferentes (sem asas, sem chifres, cor de olho rara) e são vistos como presságios.”
-	“Gancho: uma diáspora dessa espécie procura um novo lar após perder sua terra ancestral.”
-	“Variação regional: no norte, são pescadores costeiros; no sul, são guerreiros do deserto.”

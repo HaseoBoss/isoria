@@ -230,22 +230,5 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 	“Entre os jovens, arqueiros e exploradores são cada vez mais comuns.”
 
 ##### Notas
-- Tradição: “Meia hora de soco sem perder a amizade”
-    - Combate ritualístico sem armas até um cair inconsciente
-    - Regras impedem morte durante o duelo
-- “Clichê: lentos ou burros; na prática, altamente resilientes e socialmente estruturados”
-- “Difíceis de parar ou conter em combate (reforçado por Unstoppable e Unyielding Movement)”
-- “Extremamente perigosos quando feridos (reforçado por Giant’s Resolve e variações)”
-- Gancho: uma cidade-estado decide quebrar a regra de não interferência em guerras externas, ameaçando toda a estrutura política da espécie
-
-Se quiser, aqui dá para explorar muito bem **diferenças entre cidades-estado Giantborn** (agrícolas, mercenárias, religiosas), o que pode gerar conflitos internos interessantes mesmo com essa base de respeito mútuo.
-
-- Entre os [[Giantborns ou Gigantes|Giantborn]] e entre os [[Orcs|Orcs]] existe uma tradição de combate chamada não oficialmente de "Meia hora de soco sem perder a amizade". Consiste em combate corpo a corpo sem equipamentos, apenas socos trocados até que um caia inconsciente
-	- Sistematicamente: Ambos os combatentes tem ambas suas defesas fixadas em 10, o primeiro a ser reduzido a 1 ou menos de vida é derrotado. Caso sejam seguidas as regras de combate não é possivel morrer nesta tradição
-
-- Clichês, variações, conflitos internos ou ganchos
-	“Clichê: todos são brutamontes violentos; na verdade, têm artistas e filósofos respeitados.”
-	“Divididos entre uma facção tradicionalista subterrânea e outra que quer viver na superfície.”
-	“Alguns nascem com traços diferentes (sem asas, sem chifres, cor de olho rara) e são vistos como presságios.”
-	“Gancho: uma diáspora dessa espécie procura um novo lar após perder sua terra ancestral.”
-	“Variação regional: no norte, são pescadores costeiros; no sul, são guerreiros do deserto.”
+- Entre os [[Giantborns ou Gigantes|Giantborn]] e entre os [[Orcs|Orcs]] existe uma tradição de combate chamada não oficialmente de "Carinho Bruto". Consiste em combate corpo a corpo sem equipamentos, apenas socos trocados até que um caia inconsciente
+	- Sistematicamente: Ambos os combatentes tem ambas suas defesas fixadas em 10, o primeiro a ser reduzido a 1 ou menos de vida é derrotado. Caso sejam seguidas as regras de combate não é possível morrer nesta tradição

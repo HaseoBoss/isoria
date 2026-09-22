@@ -223,15 +223,3 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 
 ##### Notas
 - Mercadores
-- “Clichê: fracos ou covardes; na prática, são difíceis de intimidar ou quebrar (reforçado por Halfling Bravery)”
-- “Excelentes em escapar de situações perigosas, mais do que enfrentá-las diretamente (reforçado por Elusive e Deft Footwork)”
-- Gancho: uma rede de comércio halfling controla silenciosamente o fluxo de recursos entre nações
-
-Se quiser, dá para conectar diretamente os Halflings com os Gremlins (disfarce) e Shadowborns (rotas secretas), criando uma rede social e econômica bem interessante no mundo.
-
-- Clichês, variações, conflitos internos ou ganchos
-	“Clichê: todos são brutamontes violentos; na verdade, têm artistas e filósofos respeitados.”
-	“Divididos entre uma facção tradicionalista subterrânea e outra que quer viver na superfície.”
-	“Alguns nascem com traços diferentes (sem asas, sem chifres, cor de olho rara) e são vistos como presságios.”
-	“Gancho: uma diáspora dessa espécie procura um novo lar após perder sua terra ancestral.”
-	“Variação regional: no norte, são pescadores costeiros; no sul, são guerreiros do deserto.”

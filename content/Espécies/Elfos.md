@@ -182,9 +182,3 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 ##### Notas
 - Comunicação com a Árvore Sagrada frequentemente resulta em demandas espalhadas pela floresta
 - Sociedade dividida entre devoção absoluta e interpretações da vontade divina
-- “Clichê: perfeitos e superiores; na prática, são limitados por rigidez cultural e lentidão decisória”
-- Gancho: decisões da Santificada podem ser contestadas como “não sendo vontade de Saren”, gerando crises internas
-
-Se quiser, o próximo passo mais interessante aqui é diferenciar **subgrupos de Elfos** (ex: da copa, da raiz, costeiros, etc.), que encaixariam muito bem no seu mapa e ajudariam a dar ainda mais profundidade.
-
-- Quando a Santificada ou um dos Oráculos se comunicam com a Árvore ela muitas vezes realiza diversos pedidos por toda a Grande Floresta, com desejos variando bastante, podendo ser cura, proteção, ataque a invasores e outros

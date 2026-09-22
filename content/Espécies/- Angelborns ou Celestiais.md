@@ -108,6 +108,3 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 - Gerações inteiras com traços semelhantes são vistas como presságios
 - Possuem forte inclinação para proteger e restaurar, mesmo em combate
 - Devido a sua resistência natural a temperatura, usam usualmente roupas mais leves, que lembram um estado de pureza
-
-- Gancho: Surgimento de uma geração inteira sem asas, interpretada como sinal de ruptura divina ou queda iminente
-- Gancho: A divisão e problemas entre Celestiais "Puros", "Caídos" e uma terceira facção

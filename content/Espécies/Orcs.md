@@ -230,18 +230,3 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 
 ##### Notas
 - Militares
-- “Clichê: brutais e irracionais; na prática, possuem estrutura estratégica e disciplina interna”
-- “Vulneráveis a ataques mentais, mas extremamente resistentes fisicamente (reforçado por Cursed Mind vs Tough)”
-- “Tendem a avançar em combate em vez de recuar (reforçado por Orc Rush e Orc Dash)”
-- Gancho: o segredo do poder limitado do líder pode gerar crises internas caso descoberto
-
-Se quiser, o próximo passo forte aqui é diferenciar **subculturas Orcs** (deserto, gelo, montanha), que encaixam muito bem com o seu mapa e ajudam a variar comportamento sem perder identidade.
-
-- Militares
-
-- Clichês, variações, conflitos internos ou ganchos
-	“Clichê: todos são brutamontes violentos; na verdade, têm artistas e filósofos respeitados.”
-	“Divididos entre uma facção tradicionalista subterrânea e outra que quer viver na superfície.”
-	“Alguns nascem com traços diferentes (sem asas, sem chifres, cor de olho rara) e são vistos como presságios.”
-	“Gancho: uma diáspora dessa espécie procura um novo lar após perder sua terra ancestral.”
-	“Variação regional: no norte, são pescadores costeiros; no sul, são guerreiros do deserto.”
