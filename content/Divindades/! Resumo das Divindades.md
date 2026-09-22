@@ -1,6 +1,4 @@
-#### ?????
-- [[Player-Facing/Divindades/Outras Entidades/O Vazio|O Vazio]]
-- [[Player-Facing/Divindades/Outras Entidades/Nihil|Nihil]]
+--- title: Resumo das Divindades ---
 
 #### As 5 Divindades Primordiais
 - [[Player-Facing/Divindades/Atna - Emoções e Loucura|Atna - Topázio]] - Emoções e Loucura
@@ -36,9 +34,3 @@
 	- Conhecimento - Celestiais
 - [[Player-Facing/Divindades/Primevus - Vida e Morte|Primevus - Diamante]] - Vida e Morte
 	- Vida - Elfos
-
-#### Divindades Menores
-- [[Player-Facing/Divindades/Outras Entidades/Nihil|Nihil]]
-	- [[Player-Facing/Divindades/Divindades Menores/Nalik|Nalik]]
-- [[Player-Facing/Divindades/Venis - Ordem e Conflito|Venis]]
-	- [[Player-Facing/Divindades/Divindades Menores/Gruumsh|Gruumsh]]
