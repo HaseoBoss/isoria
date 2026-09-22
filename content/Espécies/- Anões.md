@@ -25,9 +25,9 @@
 	    - Decisões são geralmente unânimes, com exceções existentes para emergências, assuntos específicos de uma espécie ou impossibilidade de um dos lados votar
 		- Existe um conselho secreto que pode destituir um ou ambos os líderes por abuso de poder, seus membros são decididos com uma mistura de maquinário avançado para trazer a sorte na questão e magia antiga para direcionar o destino
 - Deuses Primários
-	- [[Íris - Consciência e Essência|Íris]] e sua Essência
-	- [[Meira - Poder e Controle|Meira]] e seu Poder
-	- [[Venis - Ordem e Conflito|Venis]] e sua Ordem 
+	- [[Player-Facing/Divindades/Íris - Consciência e Essência|Íris]] e sua Essência
+	- [[Player-Facing/Divindades/Meira - Poder e Controle|Meira]] e seu Poder
+	- [[Player-Facing/Divindades/Venis - Ordem e Conflito|Venis]] e sua Ordem 
 
 ##### Onde Vivem
 - Biomas, regiões ou tipos de assentamento

@@ -62,9 +62,9 @@
 		- A escolha de parceiro ou parceira é livre para todos os membros da família real, com as únicas duas regras sendo que devem ser Draconatos e que devem passar no Grande Teste
 			- O teste dá vantagem a linhagens mais puras de Draconatos, assim como diversos outros fatores
 - Deuses Primários
-	- [[Íris - Consciência e Essência|Íris]] e sua Consciência
-	- [[Janus - Destino e Caos|Janus]] e seu Destino
-	- [[Meira - Poder e Controle|Meira]] e seu Poder
+	- [[Player-Facing/Divindades/Íris - Consciência e Essência|Íris]] e sua Consciência
+	- [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]] e seu Destino
+	- [[Player-Facing/Divindades/Meira - Poder e Controle|Meira]] e seu Poder
 
 ##### Onde Vivem
 - **Escala:** cidades pequenas a médias (2.000–25.000)

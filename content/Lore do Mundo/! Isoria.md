@@ -1,19 +1,19 @@
 
 #### As 5 Divindades Primordiais
-- [[Atna - Emoções e Loucura|Atna - Topázio]] - Emoções e Loucura
-- [[Canis - Vontade e Justiça|Canis - Safira]] - Vontade e Justiça 
-- [[Meira - Poder e Controle|Meira - Ametista]] - Poder e Controle
-- [[Saren - Proteção e Natureza|Saren - Esmeralda]] - Proteção e Natureza
-- [[Venis - Ordem e Conflito|Venis - Rubi]] - Ordem e Conflito
+- [[Player-Facing/Divindades/Atna - Emoções e Loucura|Atna - Topázio]] - Emoções e Loucura
+- [[Player-Facing/Divindades/Canis - Vontade e Justiça|Canis - Safira]] - Vontade e Justiça 
+- [[Player-Facing/Divindades/Meira - Poder e Controle|Meira - Ametista]] - Poder e Controle
+- [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren - Esmeralda]] - Proteção e Natureza
+- [[Player-Facing/Divindades/Venis - Ordem e Conflito|Venis - Rubi]] - Ordem e Conflito
 
 #### As 5 Divindades Existenciais
-- [[Íris - Consciência e Essência|Íris - Quartzo]] - Consciência e Essência
-- [[Janus - Destino e Caos|Janus - Opala]] - Destino e Caos
-- [[Lartis - Tempo e Espaço|Lartis - Jade]] - Tempo e Espaço
-- [[Nulin - Conhecimento e Sabedoria|Nulin - Lápis-Lazuli]] - Conhecimento e Sabedoria
-- [[Primevus - Vida e Morte|Primevus - Diamante]] - Vida e Morte
+- [[Player-Facing/Divindades/Íris - Consciência e Essência|Íris - Quartzo]] - Consciência e Essência
+- [[Player-Facing/Divindades/Janus - Destino e Caos|Janus - Opala]] - Destino e Caos
+- [[Player-Facing/Divindades/Lartis - Tempo e Espaço|Lartis - Jade]] - Tempo e Espaço
+- [[Player-Facing/Divindades/Nulin - Conhecimento e Sabedoria|Nulin - Lápis-Lazuli]] - Conhecimento e Sabedoria
+- [[Player-Facing/Divindades/Primevus - Vida e Morte|Primevus - Diamante]] - Vida e Morte
 
-[[Nihil|Nihil - O Retorno a Origem]]
+[[Player-Facing/Divindades/Outras Entidades/Nihil|Nihil - O Retorno a Origem]]
 
 Criação Inicial Rubi, estabilizou o universo o bastante para virem Topázio, Jade, ao criar a base, naturalmente vieram Diamante e Ametista, com eles Opala e Quartzo. Após isso criaram os mundos e espécies, trazendo a vida Topázio, Safira, Lápis-Lazuli, Esmeralda e Rubi
 

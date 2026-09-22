@@ -77,11 +77,11 @@
 			- Oráculos
 			- Sumo Sacerdote
 			- Sacerdotes
-		- Múltiplas medidas de governo requerem rituais sagrados ou conferência com o alto clero, fazendo com que muitas decisões sejam lentas, a Alta Sacerdortisa tem poder de acelerar o processo mas nisso se permite ser julgada diretamente pela Deusa [[Saren - Proteção e Natureza|Saren]], que tem uma forte influência na sociedade Élfica
+		- Múltiplas medidas de governo requerem rituais sagrados ou conferência com o alto clero, fazendo com que muitas decisões sejam lentas, a Alta Sacerdortisa tem poder de acelerar o processo mas nisso se permite ser julgada diretamente pela Deusa [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren]], que tem uma forte influência na sociedade Élfica
 - Deuses Primários
-	- [[Saren - Proteção e Natureza|Saren]] e sua Natureza
-	- [[Primevus - Vida e Morte|Primevus]] e a sua Vida
-	- [[Lartis - Tempo e Espaço|Lartis]] e seu Tempo
+	- [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren]] e sua Natureza
+	- [[Player-Facing/Divindades/Primevus - Vida e Morte|Primevus]] e a sua Vida
+	- [[Player-Facing/Divindades/Lartis - Tempo e Espaço|Lartis]] e seu Tempo
 
 ##### Onde Vivem
 - **Escala:** vilas a cidades médias (600–25.000)

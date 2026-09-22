@@ -33,9 +33,9 @@
     - Mérito frequentemente supera linhagem em decisões e definição de poder ou responsabilidade na sociedade, mas instintos ainda influenciam decisões
     - Existem conflitos ocasionais entre as tipificações alimentares devido a seus instintos naturais, com certas situações específicas fugindo do controle
 - Deuses Primários
-	- [[Atna - Emoções e Loucura|Atna]] e sua Loucura
-	- [[Canis - Vontade e Justiça|Canis]] e sua Vontade
-	- [[Saren - Proteção e Natureza|Saren]] e sua Natureza
+	- [[Player-Facing/Divindades/Atna - Emoções e Loucura|Atna]] e sua Loucura
+	- [[Player-Facing/Divindades/Canis - Vontade e Justiça|Canis]] e sua Vontade
+	- [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren]] e sua Natureza
 
 ##### Onde Vivem
 - Biomas, regiões ou tipos de assentamento
@@ -92,7 +92,7 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 - Élfico - Devido a sua relação interespécie os Bestiais usualmente aprendem Élfico pela vivência ou praticidade. Menos membros aprendem quanto mais distante da Capital de ambas as espécies estejam
 
 ##### Classes Comuns
-- Druida - Comum entre herbívoros devido a sua conexão mais próxima do que a média com a natureza, com uma visão mais básica do ciclo da vida, assim como a busca pela capacidade tanto de ajudar, como de atacar e defender. Muitas vezes também é escolhida como trajeto com o objetivo de maior conexão com a Deusa [[Saren - Proteção e Natureza|Saren]] pelo caminho da magia Druídica ao invés do caminho Clerical
+- Druida - Comum entre herbívoros devido a sua conexão mais próxima do que a média com a natureza, com uma visão mais básica do ciclo da vida, assim como a busca pela capacidade tanto de ajudar, como de atacar e defender. Muitas vezes também é escolhida como trajeto com o objetivo de maior conexão com a Deusa [[Player-Facing/Divindades/Saren - Proteção e Natureza|Saren]] pelo caminho da magia Druídica ao invés do caminho Clerical
 - Caçador - Comum entre os carnívoros pela sua profunda utilização de instintos e alta capacidade de foco em batalha. Muitas vezes trabalham como Rastreadores ou Caçadores de Recompensa
 - Ladino - Comum entre as três tipificações, com maior presença onívora devido a ser menos "especializada" que Druida e Ladino as características básicas dos Bestiais. A alta variedade de trabalhos e funções que um ladino pode cumprir torna a versatilidade física dos Bestiais em uma ferramenta útil.
 

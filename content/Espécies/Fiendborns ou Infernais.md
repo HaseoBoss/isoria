@@ -70,9 +70,9 @@
     - “Valorizam controle, ambição e capacidade de manipulação (reforçado por Silver-Tongued, Charming Gaze e Intimidator)”
     - “Poder político fortemente ligado à competência prática e sobrevivência (reforçado pela estrutura do conselho)”
 - Deuses Primários
-    - [[Canis - Vontade e Justiça|Canis]]
-    - [[Janus - Destino e Caos|Janus]]
-    - [[Meira - Poder e Controle|Meira]]
+    - [[Player-Facing/Divindades/Canis - Vontade e Justiça|Canis]]
+    - [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]]
+    - [[Player-Facing/Divindades/Meira - Poder e Controle|Meira]]
 
 - Governo, valores e estrutura social
 	- Sociedade sob sistema de Monarquia Eletiva, o monarca é selecionado pelo Conselho dos 13 Anciões e rege junto a eles
@@ -88,9 +88,9 @@
 		- O governo secreto na sexta camada tem liderança especial igualmente definida por votação de parte do [[Conselho dos Treze Anciões|Conselho dos Anciões]], especificamente pelos líderes das [[Seis Famílias Abissais|6 Famílias]] e o Felesin, assim como um díficil um teste de análise de potencial e capacidade.
 			- Esse líder "verdadeiro", conhecido como o Kaiser, pode ser posteriormente derrubado por votação unânime do conselho e costuma reinar até sua morte ou caso seja considerado incapaz de continuar seu papel com total qualidade
 - Deuses Primários
-	- [[Canis - Vontade e Justiça|Canis]] e sua Vontade
-	- [[Janus - Destino e Caos|Janus]] e seu Destino
-	- [[Meira - Poder e Controle|Meira]] e seu Controle
+	- [[Player-Facing/Divindades/Canis - Vontade e Justiça|Canis]] e sua Vontade
+	- [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]] e seu Destino
+	- [[Player-Facing/Divindades/Meira - Poder e Controle|Meira]] e seu Controle
 
 ##### Onde Vivem
 - **Escala:** aldeias a cidades pequenas (500–3.000), capital muito grande
@@ -193,7 +193,7 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 - Conflito constante com Angelborns
 - Miasma gerado por concentração populacional
 - Cratera de Tartarus sofre influência caótica constante das [[Ilhas Flutuantes de Elysium - Angelborn|Ilhas de Elysium]]
-    - Interferência estabilizada por [[Janus - Destino e Caos|Janus]]
+    - Interferência estabilizada por [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]]
 - Chifres indicam linhagem e status político
 - “Capacidade natural de apagar luz e operar na escuridão (reforçado por Light’s Bane e Darkvision)”
 - “Maior resistência a intimidação e forte presença social (reforçado por Infernal Bravery)”
@@ -201,6 +201,6 @@ Inimigos - Desconfiados - Neutros - Cooperativos - Aliados
 
 Se quiser, o próximo passo natural aqui seria amarrar melhor **a origem da guerra Angelborn vs Fiendborn**, já que isso claramente é um dos pilares centrais do mundo.
 
-- Por estarem abaixo das [[Ilhas Flutuantes de Elysium - Angelborn|Ilhas Flutuantes]] dos [[- Angelborns ou Celestiais|Celestiais]] e sua misteriosa e ainda não completamente estudada magia ancestral de levitação, a primeira camada (e a segunda, um pouco) está sob constante exposição aos elementos caóticos, com estações incompreensíveis e até certo nível de descontrole do mana, o Caos apenas não foge de controle pois a situação é contida pela Deusa [[Janus - Destino e Caos|Janus]], que ajusta apenas o bastante para não permitir maiores problemas e se diverte vendo a situação
+- Por estarem abaixo das [[Ilhas Flutuantes de Elysium - Angelborn|Ilhas Flutuantes]] dos [[- Angelborns ou Celestiais|Celestiais]] e sua misteriosa e ainda não completamente estudada magia ancestral de levitação, a primeira camada (e a segunda, um pouco) está sob constante exposição aos elementos caóticos, com estações incompreensíveis e até certo nível de descontrole do mana, o Caos apenas não foge de controle pois a situação é contida pela Deusa [[Player-Facing/Divindades/Janus - Destino e Caos|Janus]], que ajusta apenas o bastante para não permitir maiores problemas e se diverte vendo a situação
 - Assentamentos dos Fiendborn com ao menos 200 membros da espécie começa a gerar leves quantidades de miasma naquele local devido a concentração da [[Maldição do Sangue]], diminuindo a fertilidade da terra e presença da vida como fauna e flora, assim como sensação de desgosto imediata advinda de Elfos e Beastborns, assim como Druidas
 - Os chifres dos puros-sangues e dos mestiços podem, por si só, ajudar a definir um maior poder político e ocasionalmente servem como demonstração e comprovação de linhagem
